@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MehmetAliKOCAL
-- 👀 I’m interested in Desktop App Development, Web Development and Databases.
-- 🌱 I’m currently learning C# and MySQL
+- 👋 Hi, I’m Mehmet Ali,
+- 👀 I’m mostly interested in Front-end Web Development but also trying to learn how to create desktop apps too.
+- 🌱 I’m currently learning C# and MySQL!
 
 <!---
 MehmetAliKOCAL/MehmetAliKOCAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
