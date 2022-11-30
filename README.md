@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mehmet Ali,
-- 👀 I’m mostly interested in Front-end Web Development but also trying to learn how to create desktop apps too.
-- 🌱 I’m currently learning C# and MySQL!
+- 👀 I’m mostly interested in Front-end Web Development but also trying to learn how to create video games with unity too.
+- 🌱 I’m currently learning Vue.js and Nuxt.js!
 
 <!---
 MehmetAliKOCAL/MehmetAliKOCAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
