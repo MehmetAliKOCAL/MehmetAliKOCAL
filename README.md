@@ -3,7 +3,7 @@
   <samp>
     Hello there, traveller!
     <br>I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://gwyndev.com">Mehmet</a></b>, a Management Infomation Systems student from Turkey.<br>
-    I work from home at Clemta as a front-end web developer.<br>
+    I work from home at Clemta as a front-end web developer.<br><br>
 
   </samp>
 
