@@ -1,8 +1,9 @@
 <p align="center">
   <br>
   <samp>
-    Hello there traveller! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://gwyndev.com">Mehmet</a></b>.
-    <br>I'm a Management Infomation Systems student from Turkey.<br>
+    Hello there traveller!
+    <br>I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://gwyndev.com">Mehmet</a></b>, a Management Infomation Systems student from Turkey.<br>
+    I work from home at Clemta as a front-end web developer.
 
 </samp>
 
@@ -20,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/gwyndev/">
+  <br><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/gwyndev/">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
 </p> 
 
